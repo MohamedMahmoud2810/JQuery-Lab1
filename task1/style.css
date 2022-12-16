@@ -1,0 +1,36 @@
+.slideshow { 
+    margin: 50px auto; 
+    position: relative; 
+    width: 240px; 
+    height: 240px; 
+    margin-right: 700px;
+}
+
+.slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+img{
+    width: 400px;
+    height: 400px;
+}
+button{
+    width: 200px;
+    height: 30px;
+    margin-left: 700px;
+    margin-top: 200px;
+    background-color: rgb(29, 166, 212);
+}
+button:hover{
+    font-size: 25px;
+    color: white;
+    width: 250px;
+    height: 35px;
+    background-color: brown;
+    transition: 2s;
+    cursor: pointer;
+}

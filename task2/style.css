@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    padding: 60px;
+}
+
+p{
+    display: block;
+    width: 200px;
+    margin-left: 160px;
+}
+img{
+    width: 300ox;
+    height: 300px;
+    margin-left: 100px;
+}
